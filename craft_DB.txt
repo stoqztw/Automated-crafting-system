@@ -1,0 +1,125 @@
+{
+  {
+    name = "vadim",
+    items = {
+      {
+        name = "minecraft:cobblestone",
+        count = 1,
+      },
+      {
+        name = "minecraft:cobblestone",
+        count = 1,
+      },
+      {
+        name = "minecraft:cobblestone",
+        count = 1,
+      },
+      {
+        name = "minecraft:cobblestone",
+        count = 1,
+      },
+      {
+        name = "minecraft:birch_leaves",
+        count = 1,
+      },
+      {
+        name = "minecraft:cobblestone",
+        count = 1,
+      },
+      {
+        name = "minecraft:cobblestone",
+        count = 1,
+      },
+      {
+        name = "minecraft:cobblestone",
+        count = 1,
+      },
+      {
+        name = "minecraft:cobblestone",
+        count = 1,
+      },
+    },
+  },
+  {
+    name = "craftTable",
+    items = {
+      {
+        name = "minecraft:oak_planks",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_planks",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_leaves",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_planks",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_planks",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_leaves",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_leaves",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_leaves",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_leaves",
+        count = 1,
+      },
+    },
+  },
+  {
+    name = "dasdasd",
+    items = {
+      {
+        name = "minecraft:oak_planks",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_planks",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_leaves",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_planks",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_planks",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_leaves",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_leaves",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_leaves",
+        count = 1,
+      },
+      {
+        name = "minecraft:oak_leaves",
+        count = 1,
+      },
+    },
+  },
+}
